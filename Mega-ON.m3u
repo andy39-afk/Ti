@@ -1,0 +1,24 @@
+#EXTM3U  url-tvg="https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz"
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=057f6b12bd914f02a4ae604a2f803e88:94c8f1e48b6366a73eac634f1848cde4
+#EXTINF:-1 ch-number="334" tvg-id="Space HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="Cine, Novelas y Series", Space
+https://megatvcdn1-sl.megacable.com.ar/content/live/Space_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=af673e9e63a640af858b766de96bf0e6:3c2a94d12d038c7b1b108d952a1661d4
+#EXTINF:-1 ch-number="334" tvg-id="TNT HD.uy" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="Cine, Novelas y Series", TNT
+https://megatvcdn1-sl.megacable.com.ar/content/live/TNT_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d10ceb7fe53a4afda8795eafd1356fca:41b62862a7b5c7e3fce8552a6921d3af
+#EXTINF:-1 ch-number="341" tvg-id="TNT Series HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSE.png?raw=true" group-title="Cine, Novelas y Series", TNT Series
+https://megatvcdn1-sl.megacable.com.ar/content/live/TNT_Series/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6
+
+
+
+
+
+
