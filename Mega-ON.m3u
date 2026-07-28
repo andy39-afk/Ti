@@ -469,27 +469,6 @@ https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
 https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDQxOTc3Iiwic2lwIjoiMjEyLjExOS4zMi4xOSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9XYXJuZXJIRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNkMDA3YTEyNzdjZGM2NWMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTAwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.-sOzG9U0lSEXToWfctF5CrIWbDVZFc8eyldp3T5l6KlB_fAfBfD2EYzULGQuUII6UayTYb4LYknHpeUPhaGz1Q==/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd|origin=https://portal.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="VENUS.uy" tvg-name="Venus" tvg-logo="https://i.ibb.co/9v1pLZf/Venus.png"  group-title="ADULTOS (+18)",VENUS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
-https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDQxOTc3Iiwic2lwIjoiMjEyLjExOS4zMi4xOSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9XYXJuZXJIRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNkMDA3YTEyNzdjZGM2NWMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTAwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.-sOzG9U0lSEXToWfctF5CrIWbDVZFc8eyldp3T5l6KlB_fAfBfD2EYzULGQuUII6UayTYb4LYknHpeUPhaGz1Q==/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd|origin=https://portal.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="435" tvg-name="Playboy" tvg-logo="https://i.ibb.co/VTjS2hk/Playboy-TV.png"  group-title="ADULTOS (+18)",PLAYBOY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
-https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDQxOTc3Iiwic2lwIjoiMjEyLjExOS4zMi4xOSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9XYXJuZXJIRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNkMDA3YTEyNzdjZGM2NWMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTAwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.-sOzG9U0lSEXToWfctF5CrIWbDVZFc8eyldp3T5l6KlB_fAfBfD2EYzULGQuUII6UayTYb4LYknHpeUPhaGz1Q==/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd|origin=https://portal.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="438" tvg-name="Sextreme" tvg-logo="https://i.ibb.co/Pz2MvfQ/Sextreme.png"  group-title="ADULTOS (+18)",SEXTREME
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
-https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDQxOTc3Iiwic2lwIjoiMjEyLjExOS4zMi4xOSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9XYXJuZXJIRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNkMDA3YTEyNzdjZGM2NWMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTAwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.-sOzG9U0lSEXToWfctF5CrIWbDVZFc8eyldp3T5l6KlB_fAfBfD2EYzULGQuUII6UayTYb4LYknHpeUPhaGz1Q==/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd|origin=https://portal.app.flow.com.ar
-
 #EXTINF:-1 tvg-id="UNIVERSALPREMIERE.uy" tvg-name="Universal_Premiere" tvg-logo="https://i.imgur.com/KdFk80C.png"  group-title="UNIVERSAL",Universal Premiere
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
